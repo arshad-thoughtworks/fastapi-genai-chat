@@ -1,0 +1,6 @@
+cat << 'EOF' > .gitignore
+fastapienv/
+__pycache__/
+*.pyc
+.env
+EOF
