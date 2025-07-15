@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # GenAI Chat App Backend (FastAPI)
 
 This project is a lightweight backend implementation for managing chat sessions and messages in a GenAI-powered Chat App using **FastAPI**.
